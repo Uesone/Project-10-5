@@ -147,6 +147,8 @@ while (numericArray[i] !== 32 && i < numericArray.length) {
     dell'alfabeto italiano.
     es. [f, b, e] --> [6, 2, 5]
 */
+
+/* ho usato il ciclo for perchè ho lacune nello switch. */
 const charactersArray = ["g", "n", "u", "z", "d"];
 const alfabeto = "abcdefghijklmnopqrstuvz";
 
